@@ -1,2 +1,3 @@
-hot fix
-a.txt 1.0
+hello world!
+this is the hot-fix branch
+1.0
